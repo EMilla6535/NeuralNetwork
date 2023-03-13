@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1594782231 source:c:\users\emiliano\documents\ai_c++\network_v_2_0\main.cpp
+	<iostream>
+	<string>
+	<stdexcept>
+	<fstream>
+	"../Class_v_1_2/NeuralNetwork.h"
+
+1594777539 c:\users\emiliano\documents\ai_c++\class_v_1_2\neuralnetwork.h
+	<string>
+	<valarray>
+	<tuple>
+	<vector>
+	<thread>
+	<mutex>
+
+1594866420 source:c:\users\emiliano\documents\ai_c++\class_v_1_2\neuralnetwork.cpp
+	"NeuralNetwork.h"
+	<iostream>
+	<cmath>
+	<algorithm>
+	<random>
+	<chrono>
+	<fstream>
+	<stdexcept>
+

@@ -1,0 +1,10 @@
+Layers_: 3
+Neurons_at_layer_1_: 784
+Neurons_at_layer_2_: 30
+Neurons_at_layer_3_: 10
+Cost_function_: cross_entropy_cost
+Activation_function_: softmax
+Epochs_: 30
+Mini_batch_size_: 10
+Eta_: 0.5
+Lambda_: 0
