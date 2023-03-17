@@ -9,7 +9,7 @@ using std::string;
 using std::runtime_error;
 #include <fstream>
 using std::ifstream;
-#include "../Class_v_1_2/NeuralNetwork.h"
+#include "NeuralNetwork.h"
 
 typedef unsigned char uchar;
 uchar** readMNISTImages(string full_path, int &number_of_images, int &image_size)
