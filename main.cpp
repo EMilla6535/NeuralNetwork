@@ -90,7 +90,7 @@ int main()
     int train_n_img = 0, train_img_size = 0, train_n_labels = 0;
     int test_n_img = 0, test_img_size = 0, test_n_labels = 0;
 
-    string path("C:\\Users\\Emiliano\\Documents\\AI_C++\\");
+    string path("path\\to\\MNIST\\files");
     string train_img_file(path + "train-images.idx3-ubyte");
     string train_lbl_file(path + "train-labels.idx1-ubyte");
 
