@@ -1,2 +1,0 @@
-simple    : 1901.2
-4 threads : 1320.0

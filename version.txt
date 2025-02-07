@@ -1,9 +1,0 @@
-Neural Network v2.0
--First multithread network.
--Use of Softmax final layer.
--Use of type "net_multi_array".
-
-For next versions:
--Better use of multithreading.
--Reduce memory use.
--Multithreading on testing.
